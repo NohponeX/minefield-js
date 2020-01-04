@@ -69,7 +69,7 @@ minefield.Game = function(canvas) {
     this.height = 15;
     this.width = 15;
 
-    this.bombs = 5;
+    this.bombs = 20;
 
     this.box_height = 25;
     this.box_width = 25;
